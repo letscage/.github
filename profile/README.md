@@ -66,7 +66,7 @@ We welcome contributions from developers, designers, and enthusiasts who share o
 
 Have questions, feedback, or just want to connect? Reach out to us:
 
-- Email: [support@letscage.com](mailto:support@letscage.com)
+- Email: [sayhi@letscage.com](mailto:sayhi@letscage.com)
 - Twitter: [@Letscage](https://twitter.com/letscage)
 
 ---
