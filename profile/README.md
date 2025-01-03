@@ -1,6 +1,6 @@
 # 🕵️‍♂️ Letscage: Secure Messaging for a Private World 🕵️‍♀️
 
-![Letscage Logo](https://via.placeholder.com/1200x300) <!-- Replace with your custom banner or logo -->
+![Letscage Logo](./letscage_logo.png) <!-- Replace with your custom banner or logo -->
 
 **Letscage** is a **peer-to-peer, end-to-end encrypted messaging app** designed to provide the highest level of privacy and security. Built for a world where privacy is a right, Letscage ensures your conversations remain completely confidential by operating over the **Tor network**.
 
