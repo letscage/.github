@@ -24,7 +24,7 @@
 
 Watch Letscage in action:
 
-<div align="center">
+<div align="left">
   <img src="./letscage_mobile_demo_gif.gif" width="280" height="auto" alt="Letscage Mobile Demo">
 </div>
 
