@@ -29,7 +29,7 @@ Watch Letscage in action:
 </div>
 
 Experience the sleek, intuitive interface of Letscage mobile. This demo showcases:
-- Secure peer-to-peer messaging
+- Secure peer-to-peer messaging (and some nasty JNI calls)
 - Real-time message delivery
 - End-to-end encryption in action
 - Tor network integration
