@@ -24,7 +24,9 @@
 
 Watch Letscage in action:
 
-![Letscage Mobile Demo](./letscage_mobile_demo_gif.gif)
+<div align="center">
+  <img src="./letscage_mobile_demo_gif.gif" width="280" height="auto" alt="Letscage Mobile Demo">
+</div>
 
 Experience the sleek, intuitive interface of Letscage mobile. This demo showcases:
 - Secure peer-to-peer messaging
