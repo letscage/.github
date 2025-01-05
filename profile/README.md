@@ -20,6 +20,22 @@
 
 ---
 
+## 🎥 Demo
+
+Watch Letscage in action:
+
+![Letscage Mobile Demo](./letscage_mobile_demo.webm)
+
+Experience the sleek, intuitive interface of Letscage mobile. This demo showcases:
+- Secure peer-to-peer messaging
+- Real-time message delivery
+- End-to-end encryption in action
+- Tor network integration
+- Mobile-optimized UI/UX
+
+---
+
+
 ## 🛠 Built With
 
 - **Programming Language**: [Rust](https://www.rust-lang.org/) for unparalleled performance and security.
