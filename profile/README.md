@@ -37,6 +37,23 @@ Experience the sleek, intuitive interface of Letscage mobile. This demo showcase
 
 ---
 
+## Roadmap 2025
+Brace yourselves for a game-changing year! We’re gearing up to rock your world with:
+
+1. **Different Metadata Attachments** – Photos, voice notes, and more to supercharge your messages.  
+2. **Bot Protection** – Some tough love for pesky spam attackers.  
+3. **Rate Limiting** – We’re laying down the law on requests.  
+4. **Durable Queue Implementation** – Resilient, async message queues for unstoppable communication.  
+5. **UI Overhaul** – Eye candy that’ll drop jaws and raise eyebrows.  
+6. **Encryption at Rest** – So your data sleeps as safely as it travels.  
+7. **Contact Management** – Keeping your people close and your privacy closer.  
+8. **ed25519_dalek Signing** – Hardened cryptographic signing for bulletproof authenticity.  
+9. **Actual Protocol Implementation** – Enough hush-hush. It’s time to roll out the real deal.
+
+This epic lineup promises a future where privacy meets stunning performance—stay tuned as we redefine private communication all over again!
+
+---
+
 
 ## 🛠 Built With
 
